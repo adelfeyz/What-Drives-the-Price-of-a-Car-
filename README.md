@@ -111,7 +111,7 @@ predicted_price = predict_car_price(selected_model, example_input_data)
 print("Predicted car price:", predicted_price)
 
 ## Files
-- [Used Car Price.ipynb](https://github.com/adelfeyz/What-Drives-the-Price-of-a-Car-/blob/main/UsedCarPrice.ipynb): Jupyter notebook containing the complete analysis and model training.
+- [UsedCarPrice.ipynb](https://github.com/adelfeyz/What-Drives-the-Price-of-a-Car-/blob/main/UsedCarPrice.ipynb): Jupyter notebook containing the complete analysis and model training.
 - [lasso_diabetes_model.pkl](https://github.com/adelfeyz/What-Drives-the-Price-of-a-Car-/blob/main/lasso_diabetes_model.pkl): Pickle file of the trained Lasso regression model.
 - [coefficients.csv](https://github.com/adelfeyz/What-Drives-the-Price-of-a-Car-/blob/main/coefficients.csv): CSV file containing the coefficients of the trained model.
 
