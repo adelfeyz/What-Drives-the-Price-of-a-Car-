@@ -60,6 +60,22 @@ The following regression models were trained and evaluated:
 ## Evaluation
 The models were evaluated using Mean Squared Error (MSE) and R² scores on both training and testing datasets to assess their performance and accuracy.
 
+## Key Findings
+#### Odometer and Car Age:
+
+Odometer: Higher odometer readings are significantly associated with a decrease in the target value. This aligns with the common understanding that vehicles with higher mileage tend to depreciate in value.
+Car Age: Similarly, older vehicles (higher car age) also show a negative impact on the target value, indicating depreciation over time.
+#### Model-Encoded Variables:
+
+Both model_encoded and model_Target_encoded show positive coefficients, suggesting that certain vehicle models or brands may hold higher value or perform better in terms of the target variable.
+#### Interaction Terms:
+
+Significant interaction terms such as odometer^2, odometer car_age, and car_age model_encoded highlight the complex relationships between these features, indicating non-linear effects and interactions that are critical to understanding vehicle valuation.
+#### Regional and Manufacturer Effects:
+
+The analysis revealed significant regional variations, with some regions (e.g., region_bellingham) positively impacting the target variable and others (e.g., region_farmington) having a negative impact. This suggests regional market conditions and preferences significantly influence vehicle value.
+Manufacturer-specific effects were also observed, indicating that vehicles from certain manufacturers hold different values.
+
 ## Usage
 To use the car pricing prediction model:
 1. Ensure you have the necessary libraries installed: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, and `seaborn`.
