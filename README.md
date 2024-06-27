@@ -110,3 +110,7 @@ selected_model = models['Lasso Regression']
 predicted_price = predict_car_price(selected_model, example_input_data)
 print("Predicted car price:", predicted_price)
 
+## Files
+- Used Car Price.ipynb: Jupyter notebook containing the complete analysis and model training.
+- lasso_diabetes_model.pkl: Pickle file of the trained Lasso regression model.
+- coefficients.csv: CSV file containing the coefficients of the trained model.
