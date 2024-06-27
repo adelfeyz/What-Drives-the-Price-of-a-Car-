@@ -66,6 +66,11 @@ To use the car pricing prediction model:
 2. Prepare your input data in the same format as the training data.
 3. Load the trained model and use the `predict_car_price` function to predict car prices.
 
+## Files
+- [UsedCarPrice.ipynb](https://github.com/adelfeyz/What-Drives-the-Price-of-a-Car-/blob/main/UsedCarPrice.ipynb): Jupyter notebook containing the complete analysis and model training.
+- [lasso_diabetes_model.pkl](https://github.com/adelfeyz/What-Drives-the-Price-of-a-Car-/blob/main/lasso_diabetes_model.pkl): Pickle file of the trained Lasso regression model.
+- [coefficients.csv](https://github.com/adelfeyz/What-Drives-the-Price-of-a-Car-/blob/main/coefficients.csv): CSV file containing the coefficients of the trained model.
+
 Example usage:
 ```python
 def predict_car_price(model, input_data):
@@ -110,8 +115,5 @@ selected_model = models['Lasso Regression']
 predicted_price = predict_car_price(selected_model, example_input_data)
 print("Predicted car price:", predicted_price)
 
-## Files
-- [UsedCarPrice.ipynb](https://github.com/adelfeyz/What-Drives-the-Price-of-a-Car-/blob/main/UsedCarPrice.ipynb): Jupyter notebook containing the complete analysis and model training.
-- [lasso_diabetes_model.pkl](https://github.com/adelfeyz/What-Drives-the-Price-of-a-Car-/blob/main/lasso_diabetes_model.pkl): Pickle file of the trained Lasso regression model.
-- [coefficients.csv](https://github.com/adelfeyz/What-Drives-the-Price-of-a-Car-/blob/main/coefficients.csv): CSV file containing the coefficients of the trained model.
+
 
