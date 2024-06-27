@@ -1,0 +1,545 @@
+Feature,Coefficient
+odometer,-4674.943322912029
+car_age,-5217.175814069791
+model_encoded,607.3170261640789
+model_Target_encoded,8662.676757617386
+odometer^2,212.73643055793983
+odometer car_age,7.039533746408692
+odometer model_encoded,-140.96689617111824
+odometer model_Target_encoded,-1752.369717140568
+car_age^2,979.7666843110165
+car_age model_encoded,-2505.541880626666
+car_age model_Target_encoded,-1765.1647313515375
+model_encoded^2,-557.8592061254095
+model_encoded model_Target_encoded,1283.8758216457236
+model_Target_encoded^2,-608.0003902473406
+odometer^3,-2.381002303494215
+odometer^2 car_age,-3.3929141084917633
+odometer^2 model_encoded,1.219857729762599
+odometer^2 model_Target_encoded,34.08645049520125
+odometer car_age^2,38.907288444620335
+odometer car_age model_encoded,-0.5596252829970819
+odometer car_age model_Target_encoded,-43.75820229792114
+odometer model_encoded^2,47.58676842032513
+odometer model_encoded model_Target_encoded,-287.0728444993469
+odometer model_Target_encoded^2,308.79214490114975
+car_age^3,-28.495476853266016
+car_age^2 model_encoded,369.36319737450583
+car_age^2 model_Target_encoded,139.41128203754127
+car_age model_encoded^2,349.8881191890069
+car_age model_encoded model_Target_encoded,-1066.1786180839924
+car_age model_Target_encoded^2,305.01320750409525
+model_encoded^3,107.41584066550232
+model_encoded^2 model_Target_encoded,-713.4359336686363
+model_encoded model_Target_encoded^2,-488.4218128406274
+model_Target_encoded^3,146.46203836636434
+region_SF bay area,-70.17109093924181
+region_abilene,1883.9750036437947
+region_akron / canton,696.6324938040938
+region_albany,587.8038625645028
+region_albuquerque,-940.6688827778142
+region_altoona-johnstown,1683.9288526584378
+region_amarillo,-24.873821806223393
+region_ames,2916.119412817462
+region_anchorage / mat-su,110.05346843033296
+region_ann arbor,57.78632690924349
+region_annapolis,-1686.9446878542187
+region_appleton-oshkosh-FDL,1042.5401200916392
+region_asheville,1452.708295015448
+region_ashtabula,0.0
+region_athens,551.3096180649617
+region_atlanta,0.0
+region_auburn,-1281.5932553418215
+region_augusta,-1148.1799598697373
+region_austin,-1185.7940958224099
+region_bakersfield,-1535.9407019143482
+region_baltimore,667.0819430844873
+region_baton rouge,490.19590333897304
+region_battle creek,-149.96060090143138
+region_beaumont / port arthur,-1901.6332437559722
+region_bellingham,3205.5902658196565
+region_bemidji,1275.688723441698
+region_bend,-0.0
+region_billings,526.5692452080974
+region_binghamton,0.0
+region_birmingham,303.38170274630636
+region_bismarck,1169.971393319849
+region_bloomington,-580.6224477729854
+region_bloomington-normal,-0.0
+region_boise,181.05473593157072
+region_boone,3779.9132482583145
+region_boston,0.0
+region_boulder,-420.61101319468423
+region_bowling green,-0.0
+region_bozeman,0.0
+region_brainerd,590.9839251802555
+region_brownsville,-1574.0063656039715
+region_brunswick,-46.05652061793043
+region_buffalo,522.0494685888023
+region_butte,-103.44198525832604
+region_cape cod / islands,-0.0
+region_catskills,-535.7907276553416
+region_cedar rapids,1469.0271278044156
+region_central NJ,269.9821521070767
+region_central louisiana,-0.0
+region_central michigan,368.0449405700608
+region_champaign urbana,0.0
+region_charleston,1038.656735816259
+region_charlotte,954.773920860617
+region_charlottesville,1069.6797902596907
+region_chattanooga,-63.83892825563417
+region_chautauqua,-0.0
+region_chicago,-513.3010521770855
+region_chico,754.1162467818386
+region_chillicothe,2494.5727229193135
+region_cincinnati,-157.52635268050008
+region_clarksville,-239.86217010719898
+region_cleveland,0.0
+region_clovis / portales,-0.0
+region_college station,9.791072317595445
+region_colorado springs,557.2476568580862
+region_columbia,-357.2708547775052
+region_columbia / jeff city,2074.274730017026
+region_columbus,528.395165288814
+region_cookeville,-2128.651729716995
+region_corpus christi,697.9867818352694
+region_corvallis/albany,-627.6257753340349
+region_cumberland valley,0.0
+region_dallas / fort worth,-972.8391205383606
+region_danville,-1783.0140775970226
+region_dayton / springfield,180.27020466216496
+region_daytona beach,-1850.6186677819114
+region_decatur,424.56856445951513
+region_deep east texas,-605.1618192506262
+region_del rio / eagle pass,0.0
+region_delaware,-199.89852819349335
+region_denver,647.5802095455648
+region_des moines,644.5947587484567
+region_detroit metro,-1664.337652311634
+region_dothan,306.87665686497195
+region_dubuque,505.07315135405736
+region_duluth / superior,-0.0
+region_east idaho,2601.57666326146
+region_east oregon,3541.6856855014207
+region_eastern CO,473.671447163142
+region_eastern CT,-0.0
+region_eastern NC,5.645230495476708
+region_eastern kentucky,-0.0
+region_eastern montana,0.0
+region_eastern panhandle,-526.6175230135821
+region_eastern shore,274.8292499421295
+region_eau claire,-167.51990858375922
+region_el paso,-3013.194347380182
+region_elko,0.0
+region_elmira-corning,-1904.826528706032
+region_erie,581.2991187506959
+region_eugene,-552.6620783602947
+region_evansville,245.49246761214167
+region_fairbanks,50.017811011891474
+region_fargo / moorhead,1705.8944401648787
+region_farmington,-7361.607397188072
+region_fayetteville,518.2391211239243
+region_finger lakes,-1738.739674566282
+region_flagstaff / sedona,1359.1152648006516
+region_flint,-336.9230887403682
+region_florence,-1207.0256847714195
+region_florence / muscle shoals,-0.0
+region_florida keys,-170.1178616077587
+region_fort collins / north CO,-0.0
+region_fort dodge,-246.23616573965793
+region_fort smith,-7888.574297313065
+"region_fort smith, AR",0.0
+region_fort wayne,-0.0
+region_frederick,-2248.6905299521845
+region_fredericksburg,-1256.8264838531545
+region_fresno / madera,68.16643409798469
+region_ft myers / SW florida,911.8119299141897
+region_gadsden-anniston,-3578.1143811449656
+region_gainesville,-1853.8602383576058
+region_galveston,116.77323801175426
+region_glens falls,-3080.1989281954066
+region_gold country,-1423.525756509661
+region_grand forks,1380.5085771031613
+region_grand island,1807.0194097216902
+region_grand rapids,2014.9077582827765
+region_great falls,1590.2090055305664
+region_green bay,807.143039224529
+region_greensboro,369.5292061129317
+region_greenville / upstate,1511.3521588427664
+region_gulfport / biloxi,-0.0
+region_hanford-corcoran,-1814.097382772534
+region_harrisburg,352.5668970091697
+region_harrisonburg,1291.6991025697598
+region_hartford,144.01807549763953
+region_hattiesburg,-535.6706990727934
+region_hawaii,1324.1269672614496
+region_heartland florida,0.0
+region_helena,-1441.5373690728507
+region_hickory / lenoir,237.55659114584878
+region_high rockies,-2017.1102093324632
+region_hilton head,0.0
+region_holland,-189.8896371502468
+region_houma,-3823.9762178866445
+region_houston,-2971.4411092757723
+region_hudson valley,133.38272478728248
+region_humboldt county,1250.236120327555
+region_huntington-ashland,1510.0853248073238
+region_huntsville / decatur,1374.7552953792726
+region_imperial county,-9853.228415385684
+region_indianapolis,83.26504105584375
+region_inland empire,-2681.51901189765
+region_iowa city,-4400.049177142021
+region_ithaca,-0.0
+region_jackson,164.69046914060607
+region_jacksonville,-936.1332974433528
+region_janesville,-908.3834332446764
+region_jersey shore,126.69691860976782
+region_jonesboro,743.7284309257084
+region_joplin,-2953.355772828927
+region_kalamazoo,1040.3302452994099
+region_kalispell,864.2860001911412
+region_kansas city,1047.5792079943049
+"region_kansas city, MO",1236.7893652293972
+region_kenai peninsula,-439.0414899247786
+region_kennewick-pasco-richland,-2375.360746436892
+region_kenosha-racine,-2132.6889020268422
+region_killeen / temple / ft hood,0.0
+region_kirksville,-413.7078759755064
+region_klamath falls,-6085.922841578237
+region_knoxville,-200.49416397042032
+region_kokomo,-768.4918114223879
+region_la crosse,74.33688672446019
+region_la salle co,0.0
+region_lafayette,-9.815798144720075
+region_lafayette / west lafayette,-873.0400083310536
+region_lake charles,567.9912461718225
+region_lake of the ozarks,-2671.1421392831753
+region_lakeland,-139.88627839439712
+region_lancaster,-874.1740169161471
+region_lansing,-21.540126366163104
+region_laredo,3322.3821766314068
+region_las cruces,1634.6451004581832
+region_las vegas,2085.755038893511
+region_lawrence,-653.4507314391767
+region_lawton,-3910.639702900389
+region_lehigh valley,-153.42766216192732
+region_lewiston / clarkston,-1919.237480869443
+region_lexington,409.5933548785294
+region_lima / findlay,0.0
+region_lincoln,-0.0
+region_little rock,1282.3959622368009
+region_logan,0.0
+region_long island,-3940.846284376824
+region_los angeles,-415.21198029853105
+region_louisville,465.59533611884774
+region_lubbock,377.1811299790955
+region_lynchburg,0.0
+region_macon / warner robins,-0.0
+region_madison,834.1857671847806
+region_maine,-1904.9707819317493
+region_manhattan,-353.8086715592357
+region_mankato,-0.0
+region_mansfield,-803.7114395805431
+region_mason city,-113.14490313289988
+region_mattoon-charleston,250.81547083585266
+region_mcallen / edinburg,-1750.6897831814076
+region_meadville,-0.0
+region_medford-ashland,-1961.656739453743
+region_memphis,1183.44518201367
+region_mendocino county,-6726.316384743337
+region_merced,-0.0
+region_meridian,-875.7260951358508
+region_milwaukee,-750.0499530402338
+region_minneapolis / st paul,-653.0697400902484
+region_missoula,-28.50656648528086
+region_mobile,0.0
+region_modesto,570.6789836759386
+region_mohave county,946.4762279208012
+region_monroe,-788.034342067142
+region_monterey bay,538.8380096082773
+region_montgomery,238.7504032091739
+region_morgantown,0.0
+region_moses lake,328.5083155801201
+region_muncie / anderson,-523.8846977298161
+region_muskegon,-374.5553509090088
+region_myrtle beach,484.27276950576015
+region_nashville,601.612320895956
+region_new hampshire,-471.9416263149241
+region_new haven,-598.4337751017684
+region_new orleans,35.449789307976815
+region_new river valley,-0.0
+region_new york city,-1487.0086749980903
+region_norfolk / hampton roads,-1671.6589251003443
+region_north central FL,-4917.104282151032
+region_north dakota,-37.68283790861234
+region_north jersey,-1230.3144282928818
+region_north mississippi,0.0
+region_north platte,-0.0
+region_northeast SD,0.0
+region_northern WI,-27.250063844045318
+region_northern michigan,1980.3681985768887
+region_northern panhandle,1201.0263008222291
+region_northwest CT,-1008.7149465358931
+region_northwest GA,-2398.4113084123105
+region_northwest KS,-0.0
+region_northwest OK,1438.156384812242
+region_ocala,-1130.3338056711552
+region_odessa / midland,2451.7462841415545
+region_ogden-clearfield,-0.0
+region_okaloosa / walton,-691.7819791285733
+region_oklahoma city,1926.7308848727973
+region_olympic peninsula,8527.979892761155
+region_omaha / council bluffs,2157.2212288326823
+region_oneonta,-0.0
+region_orange county,-762.9947437190699
+region_oregon coast,3048.2446153086203
+region_orlando,-480.19523867281185
+region_outer banks,725.4617250172578
+region_owensboro,-871.2663702041771
+region_palm springs,-1027.1158357480772
+region_panama city,283.01247508782933
+region_parkersburg-marietta,1006.6109809233819
+region_pensacola,0.0
+region_peoria,1900.9914236229104
+region_philadelphia,-2091.8585877592195
+region_phoenix,-701.1760356370504
+region_pierre / central SD,0.0
+region_pittsburgh,66.84392147904161
+region_plattsburgh-adirondacks,50.68770460459425
+region_poconos,-745.8520227327773
+region_port huron,-0.0
+region_portland,204.4192923276833
+region_potsdam-canton-massena,0.0
+region_prescott,677.0184278413243
+region_provo / orem,-168.57634875034216
+region_pueblo,74.17647148869314
+region_pullman / moscow,-1458.7165796474758
+"region_quad cities, IA/IL",239.71056315604642
+region_raleigh / durham / CH,0.0
+region_rapid city / west SD,2508.321597284561
+region_reading,-546.5247080795598
+region_redding,633.8036955352296
+region_reno / tahoe,1766.9462473829262
+region_rhode island,-322.50236286961217
+region_richmond,-664.390978614839
+region_roanoke,2843.315711612219
+region_rochester,-502.36021776910104
+region_rockford,-2997.130182092026
+region_roseburg,2389.6872099732823
+region_roswell / carlsbad,277.1544531133225
+region_sacramento,-336.0399090661921
+region_saginaw-midland-baycity,47.2397172022188
+region_salem,-3971.349122762385
+region_salina,0.0
+region_salt lake city,871.2642534237599
+region_san angelo,2306.945360877655
+region_san antonio,-245.49370061412148
+region_san diego,-1257.558780204762
+region_san luis obispo,2072.929604797438
+region_san marcos,-4748.468157493428
+region_sandusky,-1832.5744928407346
+region_santa barbara,182.82411689470715
+region_santa fe / taos,411.42968431306923
+region_santa maria,-4580.977738775457
+region_sarasota-bradenton,1248.6240159219512
+region_savannah / hinesville,-1397.6700588006313
+region_scottsbluff / panhandle,6570.479645816096
+region_scranton / wilkes-barre,350.65739782691736
+region_seattle-tacoma,-1058.5333385408312
+region_sheboygan,930.9116977007271
+region_show low,-896.0501544249543
+region_shreveport,2918.187823567997
+region_sierra vista,-199.60955869188092
+region_sioux city,-4246.865136853991
+region_sioux falls / SE SD,-340.8114006483193
+region_siskiyou county,0.0
+region_skagit / island / SJI,1585.6452222347493
+region_south bend / michiana,823.4621058628771
+region_south coast,16.02182896343805
+region_south dakota,-0.0
+region_south florida,-1987.5097100252801
+region_south jersey,-0.0
+region_southeast IA,-1484.997488039404
+region_southeast KS,-4119.10489329476
+region_southeast alaska,-0.0
+region_southeast missouri,-493.18081603052224
+region_southern WV,-690.58256724042
+region_southern illinois,-0.0
+region_southern maryland,-4117.3914063092325
+region_southwest KS,938.9070381001123
+region_southwest MN,-360.2917211258172
+region_southwest MS,893.2140523124788
+region_southwest TX,0.0
+region_southwest VA,1499.1547959515415
+region_southwest michigan,238.96558397755967
+region_space coast,-3310.8596538122065
+region_spokane / coeur d'alene,-431.81333221927736
+region_springfield,1386.7246943274495
+region_st augustine,-692.1557152585849
+region_st cloud,-1425.6951639325548
+region_st george,328.85288960017186
+region_st joseph,-518.3707358858051
+region_st louis,-0.0
+"region_st louis, MO",2093.1597368581492
+region_state college,373.3488534208492
+region_statesboro,-512.9773766794663
+region_stillwater,-1124.4408332585676
+region_stockton,190.07057827632008
+region_susanville,4522.865017288884
+region_syracuse,510.0533975642776
+region_tallahassee,-576.5860474897975
+region_tampa bay area,163.21319359553218
+region_terre haute,-555.3953662612257
+region_texarkana,-851.1215425168078
+region_texoma,-3969.3916510082604
+region_the thumb,-341.6548671586838
+region_toledo,-407.06474077316904
+region_topeka,1768.5623949305163
+region_treasure coast,0.0
+region_tri-cities,0.0
+region_tucson,-0.0
+region_tulsa,-0.0
+region_tuscaloosa,-1207.96275185407
+region_tuscarawas co,-1306.7435091837872
+region_twin falls,-36.76197141074312
+region_twin tiers NY/PA,-849.6402885050986
+region_tyler / east TX,597.9325544750101
+region_upper peninsula,353.65003799594626
+region_utica-rome-oneida,1005.8027320202413
+region_valdosta,1833.5912843176354
+region_ventura county,-7.871897106964312
+region_vermont,278.1547744028275
+region_victoria,0.0
+region_visalia-tulare,-778.4139122280199
+region_waco,454.92152837317457
+"region_washington, DC",-983.0699713325387
+region_waterloo / cedar falls,1136.2175780449227
+region_watertown,-0.0
+region_wausau,439.76399030541944
+region_wenatchee,2223.2325292612563
+region_west virginia (old),-0.0
+region_western IL,-4930.726533229913
+region_western KY,-541.3930137603098
+region_western maryland,-0.0
+region_western massachusetts,-1703.3126971187755
+region_western slope,-228.73749285051542
+region_wichita,1087.4039561115476
+region_wichita falls,-332.8650396824094
+region_williamsport,-134.589111625622
+region_wilmington,-3282.5567135339184
+region_winchester,3252.8398414160947
+region_winston-salem,-1196.0786270894846
+region_worcester / central MA,-180.06893237285666
+region_wyoming,71.96103971665465
+region_yakima,1532.1454220300213
+region_york,-1501.1102943153398
+region_youngstown,350.5845339217263
+region_yuba-sutter,984.6371010156289
+region_yuma,860.431912535333
+region_zanesville / cambridge,0.0
+manufacturer_acura,-170.52393995894508
+manufacturer_alfa-romeo,-1047.8854381424117
+manufacturer_aston-martin,0.0
+manufacturer_audi,185.5437699632378
+manufacturer_bmw,313.5830637650564
+manufacturer_buick,-769.309742518771
+manufacturer_cadillac,190.55722176631096
+manufacturer_chevrolet,646.9583765240634
+manufacturer_chrysler,-129.31308862692862
+manufacturer_datsun,1855.0108140935802
+manufacturer_dodge,-837.6975934799352
+manufacturer_ferrari,-0.0
+manufacturer_fiat,-1585.9597321268068
+manufacturer_ford,491.9279162083231
+manufacturer_gmc,920.4010906235925
+manufacturer_harley-davidson,-0.0
+manufacturer_honda,954.401997904498
+manufacturer_hyundai,-822.600765934371
+manufacturer_infiniti,-110.87621255388794
+manufacturer_jaguar,-193.1478261947447
+manufacturer_jeep,-143.6803024105797
+manufacturer_kia,-1550.5161418168075
+manufacturer_land rover,-2939.994480168985
+manufacturer_lexus,1258.9930717388745
+manufacturer_lincoln,0.0
+manufacturer_mazda,-748.0948724674024
+manufacturer_mercedes-benz,624.8882459122464
+manufacturer_mercury,699.4482889063034
+manufacturer_mini,-673.742848743899
+manufacturer_mitsubishi,-1474.012310814867
+manufacturer_nissan,-416.1772497404595
+manufacturer_pontiac,1555.415724116684
+manufacturer_porsche,3345.6468864195836
+manufacturer_ram,-309.72947078267555
+manufacturer_rover,829.0180845976906
+manufacturer_saturn,808.3325483671873
+manufacturer_subaru,-366.1326184796172
+manufacturer_tesla,1750.0977210267288
+manufacturer_toyota,1194.7380241653836
+manufacturer_volkswagen,-997.9937822503554
+manufacturer_volvo,437.8982925254824
+fuel_diesel,4596.751924796357
+fuel_electric,-1007.1673821871178
+fuel_gas,188.72617996924907
+fuel_hybrid,-554.4178875978755
+fuel_other,0.0
+title_status_clean,1429.069654161656
+title_status_lien,3594.0032887635457
+title_status_missing,-2552.5751960025523
+title_status_parts only,-3115.890230462147
+title_status_rebuilt,8.708381252301582
+title_status_salvage,-825.8384835502823
+transmission_automatic,572.3935413623432
+transmission_manual,1348.045154325254
+transmission_other,-1177.3903980300088
+state_ak,4675.526951334984
+state_al,270.53868457393304
+state_ar,-663.2556805382975
+state_az,45.10011722463393
+state_ca,-296.6930702972331
+state_co,721.1178453157543
+state_ct,-422.6478289238443
+state_dc,-12.914132288548412
+state_de,-65.6737462275818
+state_fl,261.10122031563264
+state_ga,-560.6831797415804
+state_hi,0.0
+state_ia,0.0
+state_id,1198.8688000878096
+state_il,-937.1952535112063
+state_in,-226.54077293701988
+state_ks,0.22163287000025245
+state_ky,213.93327654754816
+state_la,-1299.834224724369
+state_ma,-34.69433759073582
+state_md,-1043.785767180181
+state_me,-301.84723916292523
+state_mi,-759.9511361804421
+state_mn,12.134270421032236
+state_mo,456.00460628280626
+state_ms,-0.0
+state_mt,2854.5161590706275
+state_nc,-1626.1884062386637
+state_nd,201.846633818113
+state_ne,1827.4001907371335
+state_nh,-204.21630942868765
+state_nj,88.04030721411009
+state_nm,0.0
+state_nv,-725.16701309386
+state_ny,-232.12798515768998
+state_oh,-1039.8411144522254
+state_ok,-2219.933686601113
+state_or,-601.7995110813324
+state_pa,-241.90736698798656
+state_ri,-183.39769575672054
+state_sc,-1656.6289676678157
+state_sd,556.4807432280074
+state_tn,284.0879409144341
+state_tx,1440.2526331775093
+state_ut,1394.5354478280171
+state_va,-2633.909663272968
+state_vt,0.0
+state_wa,0.0
+state_wi,0.0
+state_wv,0.0
+state_wy,0.0
